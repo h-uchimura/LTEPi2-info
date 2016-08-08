@@ -1,4 +1,4 @@
-[🔙表紙ページへ戻る](Home.md)
+[🔙目次ページへ戻る](README.md)
 
 Raspbian 4.4以降
 

@@ -1,4 +1,4 @@
-[🔙表紙ページへ戻る](Home.md)
+[🔙目次ページへ戻る](README.md)
 
 通常ltepi2-serviceをインストールすると、プリインストールされているNode-REDはアンインストールされます。これは、[CANDY RED](https://github.com/dbaba/candy-red)をインストールするときに、プリインストールされているNode.jsも更新するためです。
 

@@ -1,4 +1,4 @@
-[🔙表紙ページへ戻る](Home.md)
+[🔙目次ページへ戻る](README.md)
 
 既定の設定では、モデムが動作している間は[LTEPi for D](http://www.candy-line.io/proandsv.html#ltepiford)のLEDが点滅します。また、その時間間隔は0.4秒となっています。
 

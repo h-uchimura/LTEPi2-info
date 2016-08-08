@@ -1,4 +1,4 @@
-[🔙表紙ページへ戻る](Home.md)
+[🔙目次ページへ戻る](README.md)
 
 [LTEPi for D](http://www.candy-line.io/proandsv.html#ltepiford)は以下のGPIOピンを使用しています。
 

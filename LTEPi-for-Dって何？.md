@@ -1,4 +1,4 @@
-[🔙表紙ページへ戻る](Home.md)
+[🔙目次ページへ戻る](README.md)
 
 Raspberry Pi B+やRaspberry Pi 2 Model Bに取り付けが可能なLTE通信モジュールを搭載した基板です。NTT DOCOMO及びNTT DOCOMOの回線を利用するMVNOのSIMを利用することができます。
 
