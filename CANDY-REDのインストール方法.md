@@ -1,3 +1,5 @@
+[🔙表紙ページへ戻る](Home.md)
+
 ltepi2サービスをインストールすると、Raspberry Pi上にNode-REDベースのフローエディターである[CANDY RED](https://github.com/dbaba/candy-red)もインストールされます。通常のNode-REDとしての機能のほか、CANDY EGGクラウドサービスと連携して手軽にクラウドとのやりとりを行うアプリケーションを作成することができます。
 
 初回インストール時に[CANDY RED](https://github.com/dbaba/candy-red)をインストールしていない場合(`CANDY_RED=0`を指定してインストールした場合)は、以下の手順で追加することができます。
@@ -82,3 +84,6 @@ http://raspberrypi.local:8100
 ![CANDY RED Screenshot on LTEPi for D](https://raw.githubusercontent.com/CANDY-LINE/ltepi2-service/master/images/screenshot-welcome-flow.jpg "CANDY RED Screenshot on LTEPi for D")
 
 このフローはあくまで参考のためのものです。これを削除してご自身のフローを作成することができます。
+
+---
+COPYRIGHT © 2016 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

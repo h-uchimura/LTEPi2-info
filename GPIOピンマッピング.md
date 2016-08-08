@@ -1,3 +1,5 @@
+[🔙表紙ページへ戻る](Home.md)
+
 [LTEPi for D](http://www.candy-line.io/proandsv.html#ltepiford)は以下のGPIOピンを使用しています。
 
 GPIOをお使いの場合は、下記以外のピンをご利用ください。
@@ -11,3 +13,6 @@ GPIOをお使いの場合は、下記以外のピンをご利用ください。
 |    15 (OUT)    |     N/A       |      RX       |
 |    16 (IN)     |     PIN 36    |      RI       |
 |     4 (OUT)    |     PIN 7     |      LED2     |
+
+---
+COPYRIGHT © 2016 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

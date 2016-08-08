@@ -1,3 +1,5 @@
+[🔙表紙ページへ戻る](Home.md)
+
 通常ltepi2-serviceをインストールすると、プリインストールされているNode-REDはアンインストールされます。これは、[CANDY RED](https://github.com/dbaba/candy-red)をインストールするときに、プリインストールされているNode.jsも更新するためです。
 
 **注意：Raspbian JESSIE LITEをお使いの場合には、もともとNode-REDは含まれておりません**
@@ -32,3 +34,6 @@ Node-REDにプリインストールされていないノードを追加してい
     pi@raspberrypi: /opt/candy-red/.node-red $ sudo systemctl restart candy-red
 
 インストールしたノードを有効にするために、サービスを起動しなおす必要があります。これを上記3行目で行っています。単純に再起動する方法でも問題ありません。
+
+---
+COPYRIGHT © 2016 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

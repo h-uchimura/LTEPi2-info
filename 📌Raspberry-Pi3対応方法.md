@@ -1,3 +1,6 @@
+[🔙表紙ページへ戻る](Home.md)
+
+
 # はじめに
 
 [LTEPi for D](http://www.candy-line.io/proandsv.html#ltepiford)は、出荷時の状態でRaspberry Pi Model B+、Raspberry Pi 2 Model Bに対応しています。
@@ -35,3 +38,6 @@ GPIOピンを合わせてラズパイ3とLTEPi for Dを取り付けましょう�
 ## 動作を確認する
 
 ラズパイ3が正常に動作しているかどうかご確認ください。
+
+---
+COPYRIGHT © 2016 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

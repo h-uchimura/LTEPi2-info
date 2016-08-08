@@ -1,3 +1,5 @@
+[🔙表紙ページへ戻る](Home.md)
+
 [![GitHub release](https://img.shields.io/github/release/CANDY-LINE/ltepi2-service.svg)](https://github.com/CANDY-LINE/ltepi2-service/releases/latest)
 [![License BSD3](https://img.shields.io/github/license/CANDY-LINE/ltepi2-service.svg)](http://opensource.org/licenses/BSD-3-Clause)
 
@@ -19,3 +21,6 @@ ltepi2-serviceは、Raspberry Pi上で動作する[LTEPi for D](http://www.candy
 
 以下のモジュールは、インストールの可否を選択可能です。 **通常はインストールされます。**
 - [CANDY RED](https://github.com/dbaba/candy-red) ... CANDY EGGクラウドサービスに接続可能なNode-REDベースのフローエディターです。Node.js v0.12またはv4.4が入っていない場合は、Node.js v0.12もインストールされます。すべてのインストールを終えるまでは、有線LAN環境で1~2時間以上かかる場合があります。**Node.jsを更新するため、プリインストールされているNode-REDはアンインストールされます。**既存Node-REDをお使いの方は[こちらの移行方法](Node-REDからの移行方法)をご覧ください。
+
+---
+COPYRIGHT © 2016 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
