@@ -83,9 +83,12 @@ http://raspberrypi.local:8100
 もしRaspberry Piのホスト名を変更していた場合は、「ホスト名.local」を「raspberrypi.local」の代わりに指定します。名前で繋がらないときは、IPアドレスを指定しましょう。
 
 接続に成功すると、以下のようなページが表示されます（通信環境が悪い場合は英語版の表示が出ることがありますが表記以外は同一のものです）。
-![CANDY RED Screenshot on LTEPi for D](https://raw.githubusercontent.com/CANDY-LINE/ltepi2-service/master/images/screenshot-welcome-flow.jpg "CANDY RED Screenshot on LTEPi for D")
+![CANDY RED Screenshot on LTEPi for D](images/screenshot-welcome-flow.jpg "CANDY RED Screenshot on LTEPi for D")
 
 このフローはあくまで参考のためのものです。これを削除してご自身のフローを作成することができます。
+
+* [インストール前に準備するもの](インストール前に準備するもの.md)
+* [インストール方法](インストール方法.md)
 
 ---
 COPYRIGHT © 2016 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
