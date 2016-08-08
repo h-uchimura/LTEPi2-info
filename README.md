@@ -1,15 +1,15 @@
 # [LTEPi for D](http://www.candy-line.io/proandsv.html#ltepiford)利用ガイド
 
-1. [表紙ページ](Home.md)
 1. [LTEPi for Dって何？](LTEPi-for-Dって何？.md)
   1. [対応ハードウェア](対応ハードウェア.md)
   1. [対応OS](対応OS.md)
-1. インストール
+  1. [ltepi2-serviceとは](ltepi2-serviceとは.md)
+1. LTEPi for Dのセットアップ (ltepi2-serviceのインストール)
   1. [インストール前に準備するもの](📌インストール前に準備するもの.md)
   1. [インストール方法](インストール方法.md)
   1. [CANDY REDのインストール方法](CANDY-REDのインストール方法.md)
-1. [バージョンアップ](バージョンアップ方法.md)
-1. [アンインストール](アンインストール方法.md)
+1. [ltepi2-serviceのバージョンアップ](バージョンアップ方法.md)
+1. [ltepi2-serviceのアンインストール](アンインストール方法.md)
 1. [コマンドラインツール](コマンドラインツール.md)
   1. [APNの表示](APNの表示.md)
   1. [APNの設定](APNの設定.md)
