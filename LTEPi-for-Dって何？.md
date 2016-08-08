@@ -6,5 +6,9 @@ Raspberry Pi B+やRaspberry Pi 2 Model Bに取り付けが可能なLTE通信モ�
 
 Raspberry Pi 3にも取り付けることは可能ですが、条件に見合ったACアダプターが必要となります。また、ACアダプターのためのDCジャックも取り付けていただく必要があります。というのも電源の接続を誤りますとRaspberry Piや基板を壊してしまいますので、出荷時の状態では容易にRaspberry Pi 3に接続できないように設計されています。
 
+* [対応ハードウェア](対応ハードウェア.md)
+* [対応OS](対応OS.md)
+* [ltepi2-serviceとは](ltepi2-serviceとは.md)
+
 ---
 COPYRIGHT © 2016 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

@@ -14,5 +14,10 @@ $ sudo candy sim show
 }
 ```
 
+* [APNの表示](APNの表示.md)
+* [APNの設定](APNの設定.md)
+* [ネットワーク状態の表示](ネットワーク状態の表示.md)
+* [モデム情報の表示](モデム情報の表示.md)
+
 ---
 COPYRIGHT © 2016 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
