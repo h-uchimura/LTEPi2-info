@@ -24,11 +24,11 @@
   1. [Node-REDからの移行方法](Node-REDからの移行方法.md)
   1. [Raspberry Pi3対応方法](📌Raspberry-Pi3対応方法.md)
 
-### 組み立ての手引き（印刷版）
-![How to assemble LTEPi for D with RPi](images/LTEPiford-instruction.jpg)
-
 ### 組み立ての手引き（動画版）
 [![How to assemble LTEPi for D with RPi](https://img.youtube.com/vi/93CAM0SLwgo/0.jpg)](https://youtu.be/93CAM0SLwgo?t=0s)
+
+### 組み立ての手引き（印刷版）
+![How to assemble LTEPi for D with RPi](images/LTEPiford-instruction.jpg)
 
 ---
 COPYRIGHT © 2016 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
