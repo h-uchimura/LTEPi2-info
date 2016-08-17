@@ -1,13 +1,11 @@
 [🔙目次ページへ戻る](README.md)
 
-# LTEPi for Dのセットアップ (ltepi2-serviceのインストール)
+ltepi2-serviceをインストールすると、Raspberry Pi上にNode-REDベースのフローエディターである[CANDY RED](https://github.com/dbaba/candy-red)もインストールされます。通常のNode-REDとしての機能のほか、CANDY EGGクラウドサービスと連携して手軽にクラウドとのやりとりを行うアプリケーションを作成することができます。
 
-ltepi2サービスをインストールすると、Raspberry Pi上にNode-REDベースのフローエディターである[CANDY RED](https://github.com/dbaba/candy-red)もインストールされます。通常のNode-REDとしての機能のほか、CANDY EGGクラウドサービスと連携して手軽にクラウドとのやりとりを行うアプリケーションを作成することができます。
-
-初回インストール時に[CANDY RED](https://github.com/dbaba/candy-red)をインストールしていない場合(`CANDY_RED=0`を指定してインストールした場合)は、以下の手順で追加することができます。
+初回インストール時に[CANDY RED](https://github.com/dbaba/candy-red)を **インストールしていない場合(`CANDY_RED=0`を指定してインストールした場合)** は、以下の手順で追加することができます。
 
 ### CANDY REDアプリケーションのインストール
-まず最初に、ltepi2サービスを停止し、LANケーブルまたはWiFiでインターネットに接続します。これは、ダウンロードにかかる通信をLTEではなく有線・無線LANにて行うようにするためです。
+まず最初に、ltepi2-serviceを停止し、LANケーブルまたはWiFiでインターネットに接続します。これは、ダウンロードにかかる通信をLTEではなく有線・無線LANにて行うようにするためです。
 ```bash
 $ sudo systemctl stop ltepi2
 ```
@@ -89,6 +87,9 @@ http://raspberrypi.local:8100
 
 * [インストール前に準備するもの](インストール前に準備するもの.md)
 * [インストール方法](インストール方法.md)
+* [ltepi2-serviceの起動と停止](ltepi2-serviceの起動と停止.md)
+* [CANDY-REDへのブラウザー接続](CANDY-REDへのブラウザー接続.md)
+* [うまく動かない時は](うまく動かない時は.md)
 
 ---
 COPYRIGHT © 2016 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

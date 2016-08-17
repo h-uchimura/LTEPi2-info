@@ -1,6 +1,6 @@
 [🔙目次ページへ戻る](README.md)
 
-既定の設定では、モデムが動作している間は[LTEPi for D](http://www.candy-line.io/proandsv.html#ltepiford)のLEDが点滅します。また、その時間間隔は0.4秒となっています。
+既定の設定では、モデムが動作し、携帯電話のネットワークに接続している間は[LTEPi for D](http://www.candy-line.io/proandsv.html#ltepiford)のLEDが点滅します。また、その時間間隔は0.4秒となっています。
 
 これらの設定は、インストール後に`/opt/candy-line/ltepi2/environment`にある以下の箇所に定義されています。
 
