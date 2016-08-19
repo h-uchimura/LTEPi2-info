@@ -5,7 +5,7 @@ APNを設定します。単一のAPNのみ設定することができます。
 すでにインターネットに接続できている状態でAPNを変更した場合、変更を反映させるためにはモジュールを再起動する必要があります。```sudo reboot```などの方法で再起動を行ってください。
 
 ```bash
-$ sudo candy apn set -n APN名 -u ユーザーID -p パスワード
+pi@raspberrypi:~ $ sudo candy apn set -n APN名 -u ユーザーID -p パスワード
 ```
 
 以下に、3つのMVNO向けの設定例を示します。他のMVNOをお使いの場合も、上記コマンドを利用してAPNを設定することができます。
@@ -15,7 +15,7 @@ $ sudo candy apn set -n APN名 -u ユーザーID -p パスワード
 デフォルトの設定には、U-mobile向けの設定が入っています。もし、他のAPNからU-mobileの設定に戻したい時は、次のコマンドを実行しましょう。
 
 ```bash
-$ sudo candy apn set -n umobile.jp -u umobile@umobile.jp -p umobile
+pi@raspberrypi:~ $ sudo candy apn set -n umobile.jp -u umobile@umobile.jp -p umobile
 ```
 
 ## IIJ mioの設定
@@ -23,7 +23,7 @@ $ sudo candy apn set -n umobile.jp -u umobile@umobile.jp -p umobile
 IIJ mioをご利用の場合は、以下のコマンドを実行してAPNを設定しましょう。
 
 ```bash
-$ sudo candy apn set -n iijmio.jp -u mio@iij -p iij
+pi@raspberrypi:~ $ sudo candy apn set -n iijmio.jp -u mio@iij -p iij
 ```
 
 ## SORACOM Airの設定
@@ -31,7 +31,7 @@ $ sudo candy apn set -n iijmio.jp -u mio@iij -p iij
 SORACOM Airをご利用の場合は、以下のコマンドを実行してAPNを設定しましょう。
 
 ```bash
-$ sudo candy apn set -n soracom.io -u sora -p sora
+pi@raspberrypi:~ $ sudo candy apn set -n soracom.io -u sora -p sora
 ```
 
 * [APNの表示](APNの表示.md)

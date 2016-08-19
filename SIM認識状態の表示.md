@@ -6,7 +6,7 @@
 1. `SIM_STATE_ABSENT ` ... SIMが認識されていない
 
 ```bash
-$ sudo candy sim show
+pi@raspberrypi:~ $ sudo candy sim show
 {
   "msisdn": "11111111111",
   "state": "SIM_STATE_READY",
