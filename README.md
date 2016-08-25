@@ -38,8 +38,9 @@
 
 #### 図中のリンク先
 
-- [☞ https://git.io/v6s0w ... インストール前に準備するもの](📌インストール前に準備するもの.md)
-- [☞ https://git.io/v6s09 ... Raspberry-Pi3対応方法](📌Raspberry-Pi3対応方法.md)
+- [☞ https://git.io/v6s0w ... LTEPi for D利用ガイド](README.md)
+- [☞ https://git.io/v6s0d ... Raspberry-Pi3対応方法](📌Raspberry-Pi3対応方法.md)
+- [☞ https://git.io/v6s09 ... インストール前に準備するもの](📌インストール前に準備するもの.md)
 
 
 ---
