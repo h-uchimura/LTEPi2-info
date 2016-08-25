@@ -36,5 +36,11 @@
 ### 組み立ての手引き（印刷版）
 ![How to assemble LTEPi for D with RPi](images/LTEPiford-instruction.jpg)
 
+#### 図中のリンク先
+
+- [☞ https://git.io/v6s0w ... インストール前に準備するもの](📌インストール前に準備するもの.md)
+- [☞ https://git.io/v6s09 ... Raspberry-Pi3対応方法](📌Raspberry-Pi3対応方法.md)
+
+
 ---
 COPYRIGHT © 2016 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
