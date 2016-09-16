@@ -17,7 +17,7 @@ $ sudo apt-get update -y
 $ sudo apt-get upgrade -y
 $ wget http://node-arm.herokuapp.com/node_archive_armhf.deb
 $ sudo dpkg -i node_archive_armhf.deb
-$ sudo apt-get install -y python-dev python-rpi.gpio bluez
+$ sudo apt-get install -y python-dev python-rpi.gpio bluez libudev-dev
 ```
 
 Raspberry Pi2をお使いの場合は、以下のコマンドを実行します。
@@ -25,7 +25,7 @@ Raspberry Pi2をお使いの場合は、以下のコマンドを実行します�
 $ sudo apt-get update
 $ sudo apt-get upgrade
 $ curl -sL https://deb.nodesource.com/setup_0.12 | sudo bash -
-$ sudo apt-get install -y python-dev python-rpi.gpio bluez nodejs
+$ sudo apt-get install -y python-dev python-rpi.gpio bluez nodejs libudev-dev
 ```
 
 続いて[CANDY RED](https://github.com/dbaba/candy-red)をインストールしましょう。インストールには、30分ほどかかります。
