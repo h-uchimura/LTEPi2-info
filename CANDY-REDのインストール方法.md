@@ -6,6 +6,35 @@ ltepi2-serviceをインストールすると、Raspberry Pi上にNode-REDベー�
 
 ### CANDY REDアプリケーションのインストール
 まず最初に、ltepi2-serviceを停止し、LANケーブルまたはWiFiでインターネットに接続します。これは、ダウンロードにかかる通信をLTEではなく有線・無線LANにて行うようにするためです。
+
+続いて、ネットワークの確認を行います。Raspberry Piにコマンドラインからアクセスして、以下のコマンドを実行します。
+
+```bash
+$ curl --head https://registry.npmjs.org
+```
+
+以下のように結果が返って来るようであれば、正しくインターネットに接続できています。
+
+```
+HTTP/1.1 200 OK
+server: CouchDB/1.5.0 (Erlang OTP/R16B03)
+Content-Type: application/json
+Cache-Control: max-age=300
+Content-Length: 262
+Accept-Ranges: bytes
+Date: Fri, 16 Sep 2016 05:19:25 GMT
+Via: 1.1 varnish
+Age: 108
+Connection: keep-alive
+X-Served-By: cache-hkg6823-HKG
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1474003165.840989,VS0,VE0
+Vary: Accept-Encoding
+```
+
+次に、以下のコマンドを実行してltepi2-serviceを停止します。
+
 ```bash
 $ sudo systemctl stop ltepi2
 ```
