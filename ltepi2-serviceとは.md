@@ -9,15 +9,15 @@ ltepi2-serviceは、Raspberry Pi上で動作する[LTEPi for D](http://www.candy
 
 - AM Telecom社製LTE/3Gモジュールの自動初期設定(モデム設定とAPN設定)
 - AM Telecom社製LTE/3Gモジュールの自動起動
-- AM Telecom社製LTE/3Gモジュールを操作するコマンドラインツール
+- AM Telecom社製LTE/3Gモジュールを操作するコマンドラインツール(`candy`コマンド)
     - APN設定、表示
     - LTE/3Gネットワーク状態表示
     - SIM状態表示
     - モデム情報表示
 
-また、以下のモジュールも同時にインストールされます。**常にインストールされます。**
-- [candy-board-cli](https://github.com/CANDY-LINE/candy-board-cli) ... コマンドラインツール
-- [candy-board-amt](https://github.com/CANDY-LINE/candy-board-amt) ... CANDY-LINE基板AM Telecomモデム向け共通モジュール
+また、上記の機能を実現するため、以下のPythonモジュールがインストールされます。**常にインストールされます。**
+- `candy`コマンドラインツール（[ソースコード](https://github.com/CANDY-LINE/candy-board-cli)）
+- CANDY-LINE基板AM Telecomモデム向け共通モジュール（[ソースコード](https://github.com/CANDY-LINE/candy-board-amt)） 
 
 以下のモジュールは、インストールの可否を選択可能です。 **通常はインストールされます。**
 - [CANDY RED](https://github.com/dbaba/candy-red) ... CANDY EGGクラウドサービスに接続可能なNode-REDベースのフローエディターです。Node.js v0.12またはv4.4が入っていない場合は、Node.js v0.12もインストールされます。すべてのインストールを終えるまでは、有線LAN環境で1~2時間以上かかる場合があります。**Node.jsを更新するため、プリインストールされているNode-REDはアンインストールされます。**既存Node-REDをお使いの方は[こちらの移行方法](Node-REDからの移行方法)をご覧ください。
