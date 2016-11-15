@@ -57,7 +57,12 @@ $ curl -sL https://deb.nodesource.com/setup_0.12 | sudo bash -
 $ sudo apt-get install -y python-dev python-rpi.gpio bluez nodejs libudev-dev
 ```
 
-続いて[CANDY RED](https://github.com/dbaba/candy-red)をインストールしましょう。インストールには、30分ほどかかります。
+続いて`npm`のキャッシュをクリアしておきましょう。そうしないと、古いバージョンを見てしまうかもしれないからです。
+```
+$ sudo npm cache -g clean
+```
+
+それでは[CANDY RED](https://github.com/dbaba/candy-red)をインストールしましょう。インストールには、30分ほどかかります。
 ```bash
 $ sudo NODE_OPTS=--max-old-space-size=128 npm install -g --unsafe-perm candy-red
 ```
