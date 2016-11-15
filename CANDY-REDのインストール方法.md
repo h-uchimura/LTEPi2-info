@@ -59,7 +59,7 @@ $ sudo apt-get install -y python-dev python-rpi.gpio bluez nodejs libudev-dev
 
 続いて`npm`のキャッシュをクリアしておきましょう。そうしないと、古いバージョンを見てしまうかもしれないからです。
 ```
-$ sudo npm cache -g clean
+$ sudo npm cache clean
 ```
 
 それでは[CANDY RED](https://github.com/dbaba/candy-red)をインストールしましょう。インストールには、30分ほどかかります。
