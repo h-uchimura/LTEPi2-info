@@ -7,6 +7,12 @@ ltepi2-serviceをインストールすると、Raspberry Pi上にNode-REDベー�
 ### CANDY REDアプリケーションのインストール
 まず最初に、ltepi2-serviceを停止し、LANケーブルまたはWiFiでインターネットに接続します。これは、ダウンロードにかかる通信をLTEではなく有線・無線LANにて行うようにするためです。
 
+はじめに、以下のコマンドを実行してltepi2-serviceを停止します。
+
+```bash
+$ sudo systemctl stop ltepi2
+```
+
 続いて、ネットワークの確認を行います。Raspberry Piにコマンドラインからアクセスして、以下のコマンドを実行します。
 
 ```bash
@@ -33,11 +39,6 @@ X-Timer: S1474003165.840989,VS0,VE0
 Vary: Accept-Encoding
 ```
 
-次に、以下のコマンドを実行してltepi2-serviceを停止します。
-
-```bash
-$ sudo systemctl stop ltepi2
-```
 続いて、Node.jsを入れ替えます。Raspbian 4.1以降ではNode-REDがプリインストールされていますのでNode.jsもすでに入っています。しかし、[CANDY RED](https://github.com/dbaba/candy-red)インストール時に追加するアドオンを用意するときに、プリインストールされたNode.jsでは解決できないエラーが発生してしまいます。これを避けるため、Node.jsを入れ替えるようにします。
 
 Raspberry Pi Model B+をお使いの場合は、以下のコマンドを実行します。
