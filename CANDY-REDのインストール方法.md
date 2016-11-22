@@ -113,7 +113,7 @@ default via 192.168.225.1 dev usb0  metric 204
 ```
 http://raspberrypi.local:8100
 ```
-もしRaspberry Piのホスト名を変更していた場合は、「ホスト名.local」を「raspberrypi.local」の代わりに指定します。名前で繋がらないときは、IPアドレスを指定しましょう。
+もしRaspberry Piのホスト名を変更していた場合は、「ホスト名.local」か、企業や学校などのネットワーク環境に応じて決められたホスト名を「raspberrypi.local」の代わりに指定します。名前で繋がらないときは、IPアドレスを指定しましょう。
 
 接続に成功すると、以下のようなページが表示されます（通信環境が悪い場合は英語版の表示が出ることがありますが表記以外は同一のものです）。
 ![CANDY RED Screenshot on LTEPi for D](images/screenshot-welcome-flow.jpg "CANDY RED Screenshot on LTEPi for D")
