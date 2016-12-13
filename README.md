@@ -28,7 +28,7 @@
   1. [サービス停止完了時間の短縮](サービス停止完了時間の短縮.md)
   1. [対SDカード破損方法](対SDカード破損方法.md)
   1. [Node-REDからの移行方法](Node-REDからの移行方法.md)
-  1. [Raspberry Pi3対応方法](📌Raspberry-Pi3対応方法.md)
+  1. [AC電源供給対応方法](📌Raspberry-Pi3対応方法.md)
 
 ### 組み立ての手引き（動画版）
 [![How to assemble LTEPi for D with RPi](https://img.youtube.com/vi/93CAM0SLwgo/0.jpg)](https://youtu.be/93CAM0SLwgo?t=0s)
@@ -39,7 +39,7 @@
 #### 図中のリンク先
 
 - [☞ https://git.io/v6s0w ... LTEPi for D利用ガイド](README.md)
-- [☞ https://git.io/v6s0d ... Raspberry-Pi3対応方法](📌Raspberry-Pi3対応方法.md)
+- [☞ https://git.io/v6s0d ... AC電源供給対応方法](📌Raspberry-Pi3対応方法.md)
 - [☞ https://git.io/v6s09 ... インストール前に準備するもの](📌インストール前に準備するもの.md)
 
 
