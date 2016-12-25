@@ -1,6 +1,6 @@
 # [LTEPi for D](http://www.candy-line.io/proandsv.html#ltepiford)利用ガイド
 
-1. [LTEPi for Dって何？](LTEPi-for-Dって何？.md)
+1. [LTEPi for Dって何？](LTEPi-for-Dって何?.md)
   1. [対応ハードウェア](対応ハードウェア.md)
   1. [対応OS](対応OS.md)
   1. [ltepi2-serviceとは](ltepi2-serviceとは.md)
