@@ -4,9 +4,9 @@
 
 ## はじめに
 
-[LTEPi for D](http://www.candy-line.io/proandsv.html#ltepiford)は、出荷時の状態では、ラズパイ本体のUSB電源より電力が供給されます。
-ラズパイ本体に[LTEPi for D](http://www.candy-line.io/proandsv.html#ltepiford)以外のUSB機器を取り付けた時や、CPU負荷が高い処理を行った時は、電力低下が起こることがあります。このような低下をできるだけ避けるために、[LTEPi for D](http://www.candy-line.io/proandsv.html#ltepiford)には、直接ACアダプターを接続できる接続口（DCジャック）をつけることができます。
-もし、安定的に電源を供給する必要がある場合は以下の部品や機器を用意し、[LTEPi for D](http://www.candy-line.io/proandsv.html#ltepiford)に取り付けてください。
+[LTEPi for D](https://www.candy-line.io/製品一覧/ltepi-for-d/)は、出荷時の状態では、ラズパイ本体のUSB電源より電力が供給されます。
+ラズパイ本体に[LTEPi for D](https://www.candy-line.io/製品一覧/ltepi-for-d/)以外のUSB機器を取り付けた時や、CPU負荷が高い処理を行った時は、電力低下が起こることがあります。このような低下をできるだけ避けるために、[LTEPi for D](https://www.candy-line.io/製品一覧/ltepi-for-d/)には、直接ACアダプターを接続できる接続口（DCジャック）をつけることができます。
+もし、安定的に電源を供給する必要がある場合は以下の部品や機器を用意し、[LTEPi for D](https://www.candy-line.io/製品一覧/ltepi-for-d/)に取り付けてください。
 
 なお、これらの作業はお手数ですがご利用者自身にて実施してください。
 

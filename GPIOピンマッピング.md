@@ -1,6 +1,6 @@
 [🔙目次ページへ戻る](README.md)
 
-[LTEPi for D](http://www.candy-line.io/proandsv.html#ltepiford)は以下のGPIOピンを使用しています。
+[LTEPi for D](https://www.candy-line.io/製品一覧/ltepi-for-d/)は以下のGPIOピンを使用しています。
 
 GPIOをお使いの場合は、下記以外のピンをご利用ください。
 

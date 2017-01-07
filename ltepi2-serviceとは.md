@@ -3,7 +3,7 @@
 [![GitHub release](https://img.shields.io/github/release/CANDY-LINE/ltepi2-service.svg)](https://github.com/CANDY-LINE/ltepi2-service/releases/latest)
 [![License BSD3](https://img.shields.io/github/license/CANDY-LINE/ltepi2-service.svg)](http://opensource.org/licenses/BSD-3-Clause)
 
-ltepi2-serviceは、Raspberry Pi上で動作する[LTEPi for D](http://www.candy-line.io/proandsv.html#ltepiford)を動作させるためのシステムサービス（Raspberry Pi上で自動的に動作するソフトウェア）です。
+ltepi2-serviceは、Raspberry Pi上で動作する[LTEPi for D](https://www.candy-line.io/製品一覧/ltepi-for-d/)を動作させるためのシステムサービス（Raspberry Pi上で自動的に動作するソフトウェア）です。
 
 本サービスでは、以下の機能を提供しています。
 

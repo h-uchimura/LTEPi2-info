@@ -1,4 +1,4 @@
-# [LTEPi for D](http://www.candy-line.io/proandsv.html#ltepiford)利用ガイド
+# [LTEPi for D](https://www.candy-line.io/製品一覧/ltepi-for-d/)利用ガイド
 
 1. [LTEPi for Dって何？](LTEPi-for-Dって何❓.md)
   1. [対応ハードウェア](対応ハードウェア.md)
