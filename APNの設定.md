@@ -34,6 +34,14 @@ SORACOM Airをご利用の場合は、以下のコマンドを実行してAPNを
 pi@raspberrypi:~ $ sudo candy apn set -n soracom.io -u sora -p sora
 ```
 
+## OCNモバイルONEの設定
+
+OCNモバイルONEをご利用の場合は、以下のコマンドを実行してAPNを設定しましょう。
+
+```bash
+pi@raspberrypi:~ $ sudo candy apn set -n lte-d.ocn.ne.jp -u mobileid@ocn -p mobile
+```
+
 * [APNの表示](APNの表示.md)
 * [ネットワーク状態の表示](ネットワーク状態の表示.md)
 * [SIM認識状態の表示](SIM認識状態の表示.md)
