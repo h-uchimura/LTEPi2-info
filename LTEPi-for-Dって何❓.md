@@ -11,4 +11,4 @@ LTEPi for Dをラズパイ 3にも取り付けることは可能ですが、条�
 * [ltepi2-serviceとは](ltepi2-serviceとは.md)
 
 ---
-COPYRIGHT © 2016 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+COPYRIGHT © 2017 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

@@ -36,4 +36,4 @@ Node-REDにプリインストールされていないノードを追加してい
 インストールしたノードを有効にするために、サービスを起動しなおす必要があります。これを上記3行目で行っています。単純に再起動する方法でも問題ありません。
 
 ---
-COPYRIGHT © 2016 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+COPYRIGHT © 2017 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

@@ -18,4 +18,4 @@ BLINKY_INTERVAL_SEC=0.4
 これらの設定を変更した場合は、ラズパイを再起動する必要があります。
 
 ---
-COPYRIGHT © 2016 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+COPYRIGHT © 2017 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

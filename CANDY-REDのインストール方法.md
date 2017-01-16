@@ -139,4 +139,4 @@ node-red-contrib-cache`など、タイトルで表示される文字列を指定
 * [うまく動かない時は](うまく動かない時は.md)
 
 ---
-COPYRIGHT © 2016 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+COPYRIGHT © 2017 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
