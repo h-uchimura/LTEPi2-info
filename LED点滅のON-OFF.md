@@ -15,7 +15,7 @@ BLINKY_INTERVAL_SEC=0.4
 
 `BLINKY_INTERVAL_SEC`には、点滅の時間間隔を秒で指定します。小数点を使うことができます。0より大きく、60以下の値を設定します。
 
-これらの設定を変更した場合は、Raspberry Piを再起動する必要があります。
+これらの設定を変更した場合は、ラズパイを再起動する必要があります。
 
 ---
 COPYRIGHT © 2016 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
