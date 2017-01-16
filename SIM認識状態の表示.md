@@ -20,4 +20,4 @@ pi@raspberrypi:~ $ sudo candy sim show
 * [モデム情報の表示](モデム情報の表示.md)
 
 ---
-COPYRIGHT © 2016 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+COPYRIGHT © 2017 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

@@ -14,7 +14,7 @@
 
 フローの移行には2つの方法があります。一つは、ブラウザーでフローのインポート(Import)を行う方法、もう一つはコマンドラインで実行する方法です。ここでは、後者の方法を紹介します。
 
-Raspberry PiにSSHでログインまたは、GUIからLXTerminal（スタートメニューのSystem Toolsから選択できます）を起動し、以下のコマンドを実行してください。パスワードを聞かれたら、Raspberry Piのログインに使用したパスワードを入力してください。
+ラズパイにSSHでログインまたは、GUIからLXTerminal（スタートメニューのSystem Toolsから選択できます）を起動し、以下のコマンドを実行してください。パスワードを聞かれたら、ラズパイのログインに使用したパスワードを入力してください。
 
     pi@raspberrypi: ~ $ sudo cp ~/.node-red/flows_${HOST_NAME}.json \
     /opt/candy-red/.node-red/flows_candy-red.json
@@ -36,4 +36,4 @@ Node-REDにプリインストールされていないノードを追加してい
 インストールしたノードを有効にするために、サービスを起動しなおす必要があります。これを上記3行目で行っています。単純に再起動する方法でも問題ありません。
 
 ---
-COPYRIGHT © 2016 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+COPYRIGHT © 2017 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

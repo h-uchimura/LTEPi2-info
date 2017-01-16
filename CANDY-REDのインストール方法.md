@@ -1,6 +1,6 @@
 [🔙目次ページへ戻る](README.md)
 
-ltepi2-serviceをインストールすると、Raspberry Pi上にNode-REDベースのフローエディターである[CANDY RED](https://github.com/dbaba/candy-red)もインストールされます。通常のNode-REDとしての機能のほか、CANDY EGGクラウドサービスと連携して手軽にクラウドとのやりとりを行うアプリケーションを作成することができます。
+ltepi2-serviceをインストールすると、ラズパイ上にNode-REDベースのフローエディターである[CANDY RED](https://github.com/dbaba/candy-red)もインストールされます。通常のNode-REDとしての機能のほか、CANDY EGGクラウドサービスと連携して手軽にクラウドとのやりとりを行うアプリケーションを作成することができます。
 
 初回インストール時に[CANDY RED](https://github.com/dbaba/candy-red)を **インストールしていない場合(`CANDY_RED=0`を指定してインストールした場合)** は、以下の手順で追加することができます。
 
@@ -13,7 +13,7 @@ ltepi2-serviceをインストールすると、Raspberry Pi上にNode-REDベー�
 $ sudo systemctl stop ltepi2
 ```
 
-続いて、ネットワークの確認を行います。Raspberry Piにコマンドラインからアクセスして、以下のコマンドを実行します。
+続いて、ネットワークの確認を行います。ラズパイにコマンドラインからアクセスして、以下のコマンドを実行します。
 
 ```bash
 $ curl --head https://registry.npmjs.org
@@ -109,11 +109,11 @@ default via 192.168.225.1 dev usb0  metric 204
 ```
 
 ### CANDY REDへのブラウザー接続
-最後にブラウザーから接続してみましょう。Raspberry Piがつながっている有線または無線LANと同じネットワークにあるコンピューターのブラウザーで以下のアドレスを入力してページを表示させてみてください。
+最後にブラウザーから接続してみましょう。ラズパイがつながっている有線または無線LANと同じネットワークにあるコンピューターのブラウザーで以下のアドレスを入力してページを表示させてみてください。
 ```
 http://raspberrypi.local:8100
 ```
-もしRaspberry Piのホスト名を変更していた場合は、「ホスト名.local」か、企業や学校などのネットワーク環境に応じて決められたホスト名を「raspberrypi.local」の代わりに指定します。名前で繋がらないときは、IPアドレスを指定しましょう。
+もしラズパイのホスト名を変更していた場合は、「ホスト名.local」か、企業や学校などのネットワーク環境に応じて決められたホスト名を「raspberrypi.local」の代わりに指定します。名前で繋がらないときは、IPアドレスを指定しましょう。
 
 接続に成功すると、以下のようなページが表示されます（通信環境が悪い場合は英語版の表示が出ることがありますが表記以外は同一のものです）。
 ![CANDY RED Screenshot on LTEPi for D](images/screenshot-welcome-flow.jpg "CANDY RED Screenshot on LTEPi for D")
@@ -132,9 +132,11 @@ node-red-contrib-cache`など、タイトルで表示される文字列を指定
 
 * [インストール前に準備するもの](インストール前に準備するもの.md)
 * [インストール方法](インストール方法.md)
+* [インストール方法（上級者向け用途の場合）](インストール方法＜上級者向け用途の場合＞.md)
+* [インストール後の作業](インストール後の作業.md)
 * [ltepi2-serviceの起動と停止](ltepi2-serviceの起動と停止.md)
 * [CANDY-REDへのブラウザー接続](CANDY-REDへのブラウザー接続.md)
 * [うまく動かない時は](うまく動かない時は.md)
 
 ---
-COPYRIGHT © 2016 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+COPYRIGHT © 2017 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

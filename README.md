@@ -7,6 +7,8 @@
 1. LTEPi for Dのセットアップ (ltepi2-serviceのインストール)
   1. [インストール前に準備するもの](📌インストール前に準備するもの.md)
   1. [インストール方法](インストール方法.md)
+  1. [インストール方法（上級者向け用途の場合）](インストール方法＜上級者向け用途の場合＞.md)
+  1. [インストール後の作業](インストール後の作業.md)
   1. [ltepi2-serviceの起動と停止](ltepi2-serviceの起動と停止.md)
   1. [CANDY-REDへのブラウザー接続](CANDY-REDへのブラウザー接続.md)
   1. [CANDY REDのインストール方法](CANDY-REDのインストール方法.md)
@@ -44,4 +46,4 @@
 
 
 ---
-COPYRIGHT © 2016 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+COPYRIGHT © 2017 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
