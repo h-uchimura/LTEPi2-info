@@ -27,4 +27,4 @@ $ sudo systemctl start ltepi2
 * [うまく動かない時は](うまく動かない時は.md)
 
 ---
-COPYRIGHT © 2017 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+© 2017 CANDY LINE, INC. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

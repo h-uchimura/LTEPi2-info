@@ -13,4 +13,4 @@ ltepi2サービスや[CANDY RED](https://github.com/dbaba/candy-red)を動作さ
 なお、これらの紹介はあくまで情報提供であり、私たちの保証する方法ではありませんのでご注意ください。
 
 ---
-COPYRIGHT © 2017 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+© 2017 CANDY LINE, INC. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

@@ -28,4 +28,4 @@ ltepi2-serviceは、ラズパイ上で動作する[LTEPi for D](https://www.cand
 * [対応OS](対応OS.md)
 
 ---
-COPYRIGHT © 2017 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+© 2017 CANDY LINE, INC. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

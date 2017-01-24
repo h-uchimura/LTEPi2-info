@@ -48,4 +48,4 @@ pi@raspberrypi:~ $ sudo candy apn set -n lte-d.ocn.ne.jp -u mobileid@ocn -p mobi
 * [モデム情報の表示](モデム情報の表示.md)
 
 ---
-COPYRIGHT © 2017 CANDY LINE, Inc. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+© 2017 CANDY LINE, INC. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
