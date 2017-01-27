@@ -21,4 +21,4 @@ pi@raspberrypi:~ $ sudo candy apn ls
 
 
 ---
-© 2017 CANDY LINE, INC. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+© 2017 CANDY LINE INC. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

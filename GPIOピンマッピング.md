@@ -15,4 +15,4 @@ GPIOをお使いの場合は、下記以外のピンをご利用ください。
 |     4 (OUT)    |     PIN 7     |       -       |     LED2    |
 
 ---
-© 2017 CANDY LINE, INC. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+© 2017 CANDY LINE INC. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

@@ -40,4 +40,4 @@ Node-REDにプリインストールされていないノードを追加してい
 今後CANDY-REDで新しいノードを追加するときは、上記のように`/opt/candy-red/.node-red`ディレクトリーでインストールを行う必要があります。通常のドキュメントでは、Node-RED向けのディレクトリー`~/.node-red`で説明がありますので読み替えるようにお願いいたします。
 
 ---
-© 2017 CANDY LINE, INC. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+© 2017 CANDY LINE INC. [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
