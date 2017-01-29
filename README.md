@@ -33,6 +33,7 @@
   1. [Node-REDからの移行方法](Node-REDからの移行方法.md)
   1. [AC電源供給対応方法](📌Raspberry-Pi3対応方法.md)
   1. [固定IP(IPV4)の設定方法](固定IPの設定方法.md)
+  1. [Windows7で固定IPのラズパイと簡単につなぐには](Windows7で固定IPのラズパイと簡単につなぐには.md)
 
 ### 組み立ての手引き（動画版）
 [![How to assemble LTEPi for D with RPi](https://img.youtube.com/vi/93CAM0SLwgo/0.jpg)](https://youtu.be/93CAM0SLwgo?t=0s)
