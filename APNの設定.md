@@ -42,6 +42,23 @@ OCNモバイルONEをご利用の場合は、以下のコマンドを実行し�
 pi@raspberrypi:~ $ sudo candy apn set -n lte-d.ocn.ne.jp -u mobileid@ocn -p mobile
 ```
 
+## mopera U (Xiデータ通信用アクセスポイント)の設定
+
+mopera Uをご利用の場合は、あらかじめ`mopera U基本ユーザID`と`mopera U基本パスワード`をご確認ください。ご不明な場合は、[こちら](https://www.mopera.net/manual/pcpda/option/index.html)をご覧になるかNTT DOCOMO社までお問い合わせください。
+IDとパスワードがわかりましたら、以下のコマンドを実行してAPNを設定しましょう。
+
+```bash
+pi@raspberrypi:~ $ sudo candy apn set -n mopera.net -u mopera U基本ユーザID -p mopera U基本パスワード
+```
+
+例）`mopera U基本ユーザID`が「myuser」であり、`mopera U基本パスワード`が「1234567」の場合
+```bash
+pi@raspberrypi:~ $ sudo candy apn set -n mopera.net -u myuser -p 1234567
+```
+
+* `mopera U基本ユーザID`と`mopera U基本パスワード`はご自身の情報に置き換えて入力してください
+* Xiデータ通信用アクセスポイント以外のAPNをご利用の場合は、[こちらのページ](https://start.mopera.net/contents/noauth/access/accessPc.html)をご覧ください
+
 * [APNの表示](APNの表示.md)
 * [ネットワーク状態の表示](ネットワーク状態の表示.md)
 * [SIM認識状態の表示](SIM認識状態の表示.md)
